@@ -1,0 +1,9 @@
+{
+    "1": {
+        "Food_Name": "dosa",
+        "Quantity": "2",
+        "Price": 25.0,
+        "Discount": 2.0,
+        "Stock": 2
+    }
+}
